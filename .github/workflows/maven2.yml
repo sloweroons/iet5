@@ -1,3 +1,6 @@
+# separate terms of service, privacy policy, and support
+# documentation.aaaa
+
 name: SonarCloud
 on:
   push:
